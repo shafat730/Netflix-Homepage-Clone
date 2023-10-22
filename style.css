@@ -17,7 +17,7 @@ body{
     padding: 10px 8%;
     position: relative;
 }
-na{
+nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
